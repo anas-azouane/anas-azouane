@@ -1,6 +1,6 @@
 <!-- Dark themed GitHub profile README -->
 
-<h1 align="center" style="color:#c8c8c8;">Hello there, I'm Anas Azouane 👋</h1>
+<h1 align="center" style="color:#c8c8c8;">Hello there, I'm Anas Azouane</h1>
 <p align="center" style="color:#888;">Embedded & Low-Level Developer | DevOps Enthusiast | Linux Aficionado</p>
 
 ---
