@@ -1,161 +1,117 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  github.com/anas-azouane · profile README                     ║
+     ║  accent: #00D68F  ·  bg: #0D1117  ·  font: JetBrains Mono     ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:0f2a24,100:00d68f&height=200&section=header&text=Anas%20Azouane&fontSize=62&fontColor=e6edf3&fontAlignY=36&desc=embedded%20%E2%80%A2%20low-level%20%E2%80%A2%20linux&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Anas Azouane" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0e7490,100:020617&height=220&section=header&text=ANAS%20AZOUANE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%E2%80%A2%20Low-Level%20Programming%20%E2%80%A2%20Linux&descAlignY=60&descSize=16" width="100%"/>
+<p align="center">
+  <a href="https://github.com/anas-azouane">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D68F&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+embedded+software+engineer;talking+to+silicon+in+C%2C+Rust+%26+ASM;bare-metal+%C2%B7+RTOS+%C2%B7+embedded+Linux;from+bootloader+to+kernel+to+CI" alt="$ whoami → embedded software engineer" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+close+to+the+metal.;Rust+%7C+C%2B%2B+%7C+C+%7C+Assembly;Embedded+Linux+%26+Real-Time+Systems;Turning+coffee+into+machine+code." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=anas-azouane&label=PROFILE+VIEWS&color=0891b2&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/anas-azouane?label=FOLLOWERS&style=flat-square&color=0891b2" alt="Followers" />
-
-</div>
-
----
-
-### `> whoami`
-
-```bash
-$ cat /etc/anas.conf
-
-NAME        = "Anas Azouane"
-ROLE        = "Embedded & Low-Level Developer"
-INTERESTS   = ["Embedded Systems", "Linux Internals",
-               "Rust", "Real-Time Systems", "DevOps"]
-ENVIRONMENT = "Linux"
-MINDSET     = "Understand the abstraction. Then break it."
-```
-
-I'm passionate about understanding **how computers actually work** — from the registers inside a microcontroller to the operating system orchestrating everything above them.
-
-My playground includes embedded firmware, Linux internals, systems programming, and infrastructure automation.
-
-I enjoy building things that are **efficient, reliable, and close to the hardware**.
-
----
-
-### `> cat /proc/skills`
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-**Systems & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions&theme=dark" alt="Infrastructure" />
-
-<br/><br/>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=cmake,postgres,fastapi,prometheus,grafana,vscode&theme=dark" alt="Tools" />
-
-<br/><br/>
-
-**Also exploring**
-
-![Assembly](https://img.shields.io/badge/Assembly-0D1117?style=flat-square&logoColor=22D3EE)
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-0D1117?style=flat-square&logo=linux&logoColor=22D3EE)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-0D1117?style=flat-square&logoColor=22D3EE)
-![STM32](https://img.shields.io/badge/STM32-0D1117?style=flat-square&logo=stmicroelectronics&logoColor=22D3EE)
-![PX4](https://img.shields.io/badge/PX4-0D1117?style=flat-square&logoColor=22D3EE)
-
-</div>
-
----
-
-### `> ls ~/projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🚁 PX4 Runtime Assurance
-
-**Flight software & runtime safety**
-
-Exploring runtime assurance for autonomous flight systems using PX4, Gazebo, and MAVLink.
-
-**Stack:** `PX4` `Gazebo` `MAVLink`
-
-[**Explore project →**](https://github.com/anas-azouane/px4-runtime-assurance)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🦀 Linux Process Analyzer
-
-**System monitoring & anomaly detection**
-
-A Rust and Python-based system for analyzing Linux `/proc` data, with containerized processing and anomaly alerts.
-
-**Stack:** `Rust` `Python` `FastAPI` `K8s`
-
-</td>
-</tr>
-</table>
-
----
-
-### `> cat /var/log/currently-exploring.log`
-
-```text
-[  OK  ] Embedded Rust & bare-metal firmware
-[  OK  ] Linux kernel and operating system internals
-[  OK  ] Real-time systems and RTOS development
-[  ..  ] Zephyr support for STM32MP157
-[  ..  ] Hardware/software interfaces
-[  ..  ] Reliable and secure embedded systems
-```
-
-> "The best way to understand a system is to build one."
-
----
-
-### `> git stats --all`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anas-azouane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-azouane&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=6" height="165" alt="Top Languages" />
+<p align="center">
+  <a href="https://anas-azouane.vercel.app"><img src="https://img.shields.io/badge/%3E_portfolio-anas--azouane.vercel.app-00D68F?style=for-the-badge&labelColor=161b22" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anasazouane"><img src="https://img.shields.io/badge/%3E_linkedin-anasazouane-00D68F?style=for-the-badge&labelColor=161b22" alt="linkedin" /></a>
+  <a href="mailto:azouaneanas@gmail.com"><img src="https://img.shields.io/badge/%3E_mail-azouaneanas%40gmail.com-00D68F?style=for-the-badge&labelColor=161b22" alt="email" /></a>
+</p>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=anas-azouane&theme=transparent&hide_border=true&background=0D1117&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+### ~/whoami
 
-</div>
-
----
-
-### `> ping anas`
-
-<div align="center">
-
-**Interested in embedded systems, Linux, or systems programming?**
-
-I'm always up for discussing interesting engineering problems, collaborating on open-source projects, or exploring what's happening under the hood.
-
-<a href="https://github.com/anas-azouane">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-```text
-$ sudo make awesome
-[sudo] password for anas: ********
-Compiling ideas...
-Linking possibilities...
-Build successful. ✓
+```console
+anas@stm32mp1:~$ dmesg | grep anas
+[    0.000000] Booting anas-azouane: embedded software engineer
+[    0.000512] location: Toulouse, FR
+[    0.001024] locale: ar_MA.UTF-8, en_US.UTF-8, fr_FR.UTF-8
+[    0.002048] cpu0: C, C++17, Rust (no_std), Assembly, Python online
+[    0.004096] cpu1 (Cortex-M4): Zephyr, FreeRTOS, bare-metal, MPU isolation
+[    0.008192] linux: Yocto, kernel modules, Device Tree, PREEMPT_RT
+[    0.016384] devops: Docker, Kubernetes, Terraform, CI on real hardware
+[    0.032768] interests: real-time, OS internals, reverse engineering
+[    0.065536] domain: safety-critical & avionics software
+[    0.131072] edu: M2 Embedded Software (UBO) + Engineering degree (INPT)
+[    0.262144] status: ready, open to embedded & low-level roles
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0e7490,100:020617&height=110&section=footer" width="100%" alt="Footer" />
+### ~/about
 
-</div>
+- Low-level software: bare-metal firmware, RTOS, bootloaders, Linux kernel drivers.
+- Embedded Linux: custom Yocto and Buildroot images, Device Tree, real-time Linux.
+- Safety-critical background, including avionics work at **Collins Aerospace** in Toulouse.
+- Code isn't tested until it has run on real hardware, so I wire boards into CI.
+- Into Rust for embedded, OS internals, and hardware that has no documentation.
+- M2 in Embedded Software (UBO Brest) + engineering degree in Embedded Systems (INPT Rabat).
+
+### ~/toolchain
+
+<p align="center">
+  <code>// languages</code><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,bash&theme=dark" alt="C, C++, Rust, Python, Bash" /><br/>
+  <img src="https://img.shields.io/badge/Assembly-161b22?style=for-the-badge" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-161b22?style=for-the-badge" alt="VHDL" />
+</p>
+
+<p align="center">
+  <code>// silicon</code><br/><br/>
+  <img src="https://img.shields.io/badge/STM32MP1-161b22?style=for-the-badge&logo=stmicroelectronics&logoColor=00D68F" alt="STM32MP1" />
+  <img src="https://img.shields.io/badge/Cortex--M%20%26%20Cortex--A-161b22?style=for-the-badge&logo=arm&logoColor=00D68F" alt="ARM Cortex-M and Cortex-A" />
+  <img src="https://img.shields.io/badge/RISC--V-161b22?style=for-the-badge&logo=riscv&logoColor=00D68F" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/Zynq%20SoC%20FPGA-161b22?style=for-the-badge&logo=amd&logoColor=00D68F" alt="Zynq SoC FPGA" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-161b22?style=for-the-badge&logo=raspberrypi&logoColor=00D68F" alt="Raspberry Pi" /><br/>
+  <img src="https://img.shields.io/badge/UART%20%C2%B7%20SPI%20%C2%B7%20I2C%20%C2%B7%20CAN%20%C2%B7%20USB%20HID%20%C2%B7%20Ethernet-161b22?style=for-the-badge" alt="UART, SPI, I2C, CAN, USB HID, Ethernet" />
+</p>
+
+<p align="center">
+  <code>// kernel space</code><br/><br/>
+  <img src="https://img.shields.io/badge/Linux%20Kernel-161b22?style=for-the-badge&logo=linux&logoColor=00D68F" alt="Linux kernel" />
+  <img src="https://img.shields.io/badge/Yocto%20Project-161b22?style=for-the-badge" alt="Yocto Project" />
+  <img src="https://img.shields.io/badge/Buildroot-161b22?style=for-the-badge" alt="Buildroot" />
+  <img src="https://img.shields.io/badge/Device%20Tree-161b22?style=for-the-badge" alt="Device Tree" />
+  <img src="https://img.shields.io/badge/PREEMPT__RT-161b22?style=for-the-badge" alt="PREEMPT_RT" /><br/>
+  <img src="https://img.shields.io/badge/Zephyr%20RTOS-161b22?style=for-the-badge" alt="Zephyr RTOS" />
+  <img src="https://img.shields.io/badge/FreeRTOS-161b22?style=for-the-badge" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/OpenAMP-161b22?style=for-the-badge" alt="OpenAMP" />
+  <img src="https://img.shields.io/badge/QEMU-161b22?style=for-the-badge&logo=qemu&logoColor=00D68F" alt="QEMU" />
+</p>
+
+<p align="center">
+  <code>// infra & ci</code><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,gitlab,jenkins,prometheus,postgres,git&perline=10&theme=dark" alt="Docker, Kubernetes, Terraform, Ansible, GitHub Actions, GitLab, Jenkins, Prometheus, PostgreSQL, Git" />
+</p>
+
+<p align="center">
+  <code>// safety</code><br/><br/>
+  <img src="https://img.shields.io/badge/DO--178C-161b22?style=for-the-badge" alt="DO-178C" />
+  <img src="https://img.shields.io/badge/DO--254-161b22?style=for-the-badge" alt="DO-254" />
+  <img src="https://img.shields.io/badge/AMC%2020--193-161b22?style=for-the-badge" alt="AMC 20-193" />
+  <img src="https://img.shields.io/badge/V--model%20%C2%B7%20traceability-161b22?style=for-the-badge" alt="V-model and traceability" />
+</p>
+
+### ~/activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anas-azouane&background=0D1117&border=30363D&ring=00D68F&fire=00D68F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D68F&sideLabels=8B949E&dates=8B949E" width="75%" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anas-azouane/anas-azouane/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anas-azouane/anas-azouane/output/snake-light.svg" />
+    <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/anas-azouane/anas-azouane/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <code>while (1) { learn(); build(); flash(); }</code>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=anas-azouane&label=packets%20received&color=00d68f&style=flat-square" alt="profile views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d68f,45:0f2a24,100:0d1117&height=120&section=footer" width="100%" alt="" />
