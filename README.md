@@ -95,10 +95,6 @@ anas@stm32mp1:~$ dmesg | grep anas
 ### ~/activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anas-azouane&background=0D1117&border=30363D&ring=00D68F&fire=00D68F&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00D68F&sideLabels=8B949E&dates=8B949E" width="75%" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anas-azouane/anas-azouane/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anas-azouane/anas-azouane/output/snake-light.svg" />
